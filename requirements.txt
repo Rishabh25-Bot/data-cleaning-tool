@@ -1,9 +1,8 @@
+streamlit==1.32.0
+altair==4.2.2
 pandas
 numpy
-scikit-learn
-streamlit
-matplotlib
+matplotlib==3.7.1
 seaborn
-python-docx
-pdfplumber
-tabula-py
+plotly
+pillow==9.5.0
