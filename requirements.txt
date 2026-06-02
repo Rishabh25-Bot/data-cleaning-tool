@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+seaborn
+python-docx
+pdfplumber
+tabula-py
