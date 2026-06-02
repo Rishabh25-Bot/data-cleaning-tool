@@ -83,4 +83,4 @@ Main execution file that integrates all modules and runs the complete workflow.
 
 Rishabh Singh
 
-Aspiring Data Analyst | Machine Learning Enthusiast
+Data Analyst | Machine Learning Enthusiast
